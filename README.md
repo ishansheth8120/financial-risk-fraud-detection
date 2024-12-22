@@ -1,10 +1,7 @@
-# financial-risk-fraud-detection
-The Financial Risk Assessment and Fraud Detection Platform identifies risks and flags suspicious financial transactions using machine learning. It features data ingestion, risk scoring, anomaly detection, a web-based dashboard, real-time alerts, and cloud deployment, emphasizing security, scalability, and practical insights into financial risk management.
-
 # Financial Risk Assessment and Fraud Detection Platform  
 
 ## Project Overview  
-The **Financial Risk Assessment and Fraud Detection Platform** is a beginner-friendly initiative designed to analyze financial transactions, assign risk scores, and detect potential fraudulent activities. This project integrates data science, machine learning, and web development to create a functional, scalable, and secure solution.  
+The Financial Risk Assessment and Fraud Detection Platform identifies risks and flags suspicious financial transactions using machine learning. It features data ingestion, risk scoring, anomaly detection, a web-based dashboard, real-time alerts, and cloud deployment, emphasizing security, scalability, and practical insights into financial risk management.
 
 ## Features  
 - **Data Ingestion**: Upload and preprocess transaction data (CSV, Excel).  
