@@ -41,18 +41,25 @@ The **Financial Risk Assessment and Fraud Detection Platform** is a beginner-fri
    git clone https://github.com/yourusername/FinancialRiskPlatform.git
 
 2. Navigate to the project directory:
+      ```bash
     cd FinancialRiskPlatform
    
-3. Set up a virtual environment (optional):
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+4. Set up a virtual environment (optional):
+    ```bash
 
-4. Install the required dependencies:
+    python -m venv venv
+    source venv/bin/activate  # On Windows
+
+6. Install the required dependencies:
+   ```bash
     pip install -r requirements.txt
    
 Usage
 
 1. Start the Flask server:
+   ```bash
     python app.py
-2. Access the platform in your browser at http://localhost:5000.
-3. Upload transaction data and view risk scores and flagged transactions.
+3. Access the platform in your browser at
+   ```bash
+   http://localhost:5000.
+4. Upload transaction data and view risk scores and flagged transactions.
